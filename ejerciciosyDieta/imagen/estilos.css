@@ -1,0 +1,50 @@
+.parrafo{
+    font-size: 25px;
+    font-family: "arial";
+    color: black;
+    font-weight: bold;
+    text-align: justify;
+
+}
+main{
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+footer{
+    font-size: 20px;
+    background-color: darkslategray;
+    color: white ;
+
+
+}
+
+.texto{
+    
+    text-align: center;
+    
+}
+
+.fondocolor{
+    background-color: darkcyan;
+    
+
+}
+
+.imagen {
+    width: 400px;
+    height: 200px;
+}
+.contenedor{
+    background-color: rgb(218, 230, 231);
+    padding: 20px;
+    text-align: justify;    
+    margin-left: 160px;
+    margin-right: 160px;
+ }
+ .fotos{
+    width: 200px;
+    height: 100px;
+
+
+ }
